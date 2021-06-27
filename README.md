@@ -20,7 +20,7 @@ To Create a Build:
 
 To Visit App:
 
-`[http:/localhost:3000/](http://localhost:3000/)`  
+[http:/localhost:3000/](http://localhost:3000/)
 
 ## License
 
